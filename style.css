@@ -1,0 +1,62 @@
+.rowblue{
+    height: 250px;
+    margin: 20px;
+    background-color: rgb(43, 90, 245);
+    align-items: center;
+}
+.rowpink{
+    background-color: darkorchid;
+    height: 250px;
+    margin: 20px;
+    align-items: center;
+}
+
+.rowwhite{
+    height: 250px;
+    margin: 20px;
+    background-color: white;
+    align-items: center;
+}
+
+.container{
+    
+
+}
+img {height: 200px;
+    width: 200px;
+}
+
+.image-group1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding: 30px;
+}
+.image-group2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    
+}
+.image-group3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.headercontainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+
+}
